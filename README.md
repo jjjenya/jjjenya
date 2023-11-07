@@ -15,6 +15,5 @@
 ----------
 
 ### ⚙️ GitHub статистика:
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jjjenya" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjenya&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
